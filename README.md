@@ -2,6 +2,8 @@
 
 ## Overview
 
+<a href="https://github.com/ai-helpers"><img src="./logo.png" width="180" align="Right" /></a>
+
 The FairplayQA dataset is a collection of questions and answers related to the field of sports. It is designed to assess the accuracy and reliability of information within the domain of sports, covering a wide range of topics including articles, activities, and various actors in the sports industry.
 
 ## Contents
